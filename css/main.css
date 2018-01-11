@@ -82,7 +82,7 @@ a:hover {
     left: 0;
     right: 0;
     width: 90%;
-	max-width: 1280px;
+	max-width: 1350px;
     height: 60px;
     white-space: nowrap;
     padding: 0;
@@ -114,7 +114,7 @@ li {
     position: relative;
     display: inline-block;
     height: 50px;
-    padding: 0 2vw;
+    padding: 0 2rem;
     text-align: center;
     vertical-align: middle;
     text-decoration: none;
@@ -137,7 +137,7 @@ li {
 }
 
 .navbar>li.logo {
-    width: calc(98px + 4vw);
+    width: calc(98px + 5rem);
     background-image: url(../img/logo-white.png);
     background-repeat: no-repeat;
     background-position: center;
@@ -410,7 +410,7 @@ p {
     right: 0;
     left: 0;
     width: 100%;
-	max-width: 1280px;
+	max-width: 1350px;
 }
 
 .innerherowrap {
@@ -561,7 +561,7 @@ p:not(:last-child)
     right: 0;
     left: 0;
     width: 90%;
-	max-width: 1280px;
+	max-width: 1350px;
 }
 
 .innercenter {
