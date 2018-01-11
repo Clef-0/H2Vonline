@@ -40,22 +40,11 @@ img {
 }
 
 a:link, a:visited { 
-    color: #35b7b7;
+    color: #1e74d8;
 	text-decoration: none;
 }
-
-.innercontent .right a:link, .innercontent .right a:visited { 
-    color: rgba(255, 153, 0, 0.8);
-	text-decoration: none;
-}
-
 a:hover {
-	color: #37cccc;
-	text-decoration: none;
-}
-
-.innercontent .right a:hover {
-	color: rgba(255, 153, 0, 1);
+	color: #5aabf0;
 	text-decoration: none;
 }
 
@@ -452,7 +441,7 @@ p {
 }
 
 .innercontent .right h1 {
-	color: rgba(255, 153, 0, 0.9);
+	color: #8db3f6;
 }
 
 .innercontent h2 {
