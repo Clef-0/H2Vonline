@@ -114,7 +114,7 @@ li {
     position: relative;
     display: inline-block;
     height: 50px;
-    padding: 0 2rem;
+    padding: 0 1.8rem;
     text-align: center;
     vertical-align: middle;
     text-decoration: none;
@@ -1159,6 +1159,14 @@ p:not(:last-child)
 .updates .entry:last-of-type {
     border-bottom-width: 0px;
 }
+}
+
+
+@media screen and (max-width: 749px)
+{
+	.logo {
+		display: none;
+	}
 }
 
 :before, :after {
