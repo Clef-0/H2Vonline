@@ -35,7 +35,7 @@ if ($('#blurry').length > 0) {
     var canvas = document.getElementById("blurry"),
         ctx = canvas.getContext("2d"),
         toBlur = new Image();
-        toBlur.src = "https://eldewrito.com/img/hero01.jpg";
+        toBlur.src = "https://h2.eldewrito.com/img/hero01.jpg";
 
     function drawBlur() {
         var w = canvas.width,
@@ -52,7 +52,7 @@ if ($('#blurry-left').length > 0) {
     var canvas2 = document.getElementById("blurry-left"),
                     ctx2 = canvas2.getContext("2d"),
                     toBlur2 = new Image();
-                    toBlur2.src = "https://eldewrito.com/img/hero06.jpg";
+                    toBlur2.src = "https://h2.eldewrito.com/img/hero06.jpg";
 
                 toBlur2.onload = function() {
                     var w = canvas2.width,
@@ -65,7 +65,7 @@ if ($('#blurry-right').length > 0) {
                 var canvas3 = document.getElementById("blurry-right"),
                     ctx3 = canvas3.getContext("2d"),
                     toBlur3 = new Image();
-                    toBlur3.src = "https://eldewrito.com/img/hero05.jpg";
+                    toBlur3.src = "https://h2.eldewrito.com/img/hero05.jpg";
 
                 toBlur3.onload = function() {
                     var w = canvas3.width,
@@ -78,7 +78,7 @@ if ($('#blurry-about').length > 0) {
     var canva = document.getElementById("blurry-about"),
         ct = canva.getContext("2d"),
         toBlu = new Image();
-        toBlu.src = "https://eldewrito.com/img/navbar.jpg";
+        toBlu.src = "https://h2.eldewrito.com/img/navbar.jpg";
 
     function drawBlur() {
         var w = canva.width,
@@ -95,7 +95,7 @@ if ($('#blurry-dl').length > 0) {
     var canvas4 = document.getElementById("blurry-dl"),
         ctx4 = canvas4.getContext("2d"),
         toBlur4 = new Image();
-        toBlur4.src = "https://eldewrito.com/img/hero07.jpg";
+        toBlur4.src = "https://h2.eldewrito.com/img/hero07.jpg";
 
     function drawBlur() {
         var w = canvas4.width,
@@ -112,7 +112,7 @@ if ($('#blurry-show1').length > 0) {
     var canvas5 = document.getElementById("blurry-show1"),
         ctx5 = canvas5.getContext("2d"),
         toBlur5 = new Image();
-        toBlur5.src = "https://eldewrito.com/img/hero05.jpg";
+        toBlur5.src = "https://h2.eldewrito.com/img/hero05.jpg";
 
     function drawBlur() {
         var w = canvas5.width,
@@ -129,7 +129,7 @@ if ($('#blurry-show2').length > 0) {
     var canvas6 = document.getElementById("blurry-show2"),
         ctx6 = canvas6.getContext("2d"),
         toBlur6 = new Image();
-        toBlur6.src = "https://eldewrito.com/img/hero08.jpg";
+        toBlur6.src = "https://h2.eldewrito.com/img/hero08.jpg";
 
     function drawBlur() {
         var w = canvas6.width,
@@ -146,7 +146,7 @@ if ($('#blurry-show3').length > 0) {
     var canvas7 = document.getElementById("blurry-show3"),
         ctx7 = canvas7.getContext("2d"),
         toBlur7 = new Image();
-        toBlur7.src = "https://eldewrito.com/img/hero02.jpg";
+        toBlur7.src = "https://h2.eldewrito.com/img/hero02.jpg";
 
     function drawBlur() {
         var w = canvas7.width,
@@ -163,7 +163,7 @@ if ($('#blurry-show4').length > 0) {
     var canvas8 = document.getElementById("blurry-show4"),
         ctx8 = canvas8.getContext("2d"),
         toBlur8 = new Image();
-        toBlur8.src = "https://eldewrito.com/img/hero09.jpg";
+        toBlur8.src = "https://h2.eldewrito.com/img/hero09.jpg";
 
     function drawBlur() {
         var w = canvas8.width,
@@ -180,7 +180,7 @@ if ($('#blurry-show5').length > 0) {
     var canvas9 = document.getElementById("blurry-show5"),
         ctx9 = canvas9.getContext("2d"),
         toBlur9 = new Image();
-        toBlur9.src = "https://eldewrito.com/img/hero10.jpg";
+        toBlur9.src = "https://h2.eldewrito.com/img/hero10.jpg";
 
     function drawBlur() {
         var w = canvas9.width,
@@ -197,7 +197,7 @@ if ($('#blurry-show6').length > 0) {
     var canvas10 = document.getElementById("blurry-show6"),
         ctx10 = canvas10.getContext("2d"),
         toBlur10 = new Image();
-        toBlur10.src = "https://eldewrito.com/img/hero11.jpg";
+        toBlur10.src = "https://h2.eldewrito.com/img/hero11.jpg";
 
     function drawBlur() {
         var w = canvas10.width,
@@ -214,7 +214,7 @@ if ($('#blurry-show8').length > 0) {
     var canvas11 = document.getElementById("blurry-show8"),
         ctx11 = canvas11.getContext("2d"),
         toBlur11 = new Image();
-        toBlur11.src = "https://eldewrito.com/img/scr01.jpg";
+        toBlur11.src = "https://h2.eldewrito.com/img/scr01.jpg";
 
     function drawBlur() {
         var w = canvas11.width,
@@ -231,7 +231,7 @@ if ($('#blurry-show9').length > 0) {
     var canvas12 = document.getElementById("blurry-show9"),
         ctx12 = canvas12.getContext("2d"),
         toBlur12 = new Image();
-        toBlur12.src = "https://eldewrito.com/img/scr02.jpg";
+        toBlur12.src = "https://h2.eldewrito.com/img/scr02.jpg";
 
     function drawBlur() {
         var w = canvas12.width,
@@ -248,7 +248,7 @@ if ($('#blurry-show10').length > 0) {
     var canvas13 = document.getElementById("blurry-show10"),
         ctx13 = canvas13.getContext("2d"),
         toBlur13 = new Image();
-        toBlur13.src = "https://eldewrito.com/img/scr03.jpg";
+        toBlur13.src = "https://h2.eldewrito.com/img/scr03.jpg";
 
     function drawBlur() {
         var w = canvas13.width,
@@ -265,7 +265,7 @@ if ($('#blurry-show11').length > 0) {
     var canvas14 = document.getElementById("blurry-show11"),
         ctx14 = canvas14.getContext("2d"),
         toBlur14 = new Image();
-        toBlur14.src = "https://eldewrito.com/img/scr04.jpg";
+        toBlur14.src = "https://h2.eldewrito.com/img/scr04.jpg";
 
     function drawBlur() {
         var w = canvas14.width,
@@ -282,7 +282,7 @@ if ($('#blurry-show12').length > 0) {
     var canvas15 = document.getElementById("blurry-show12"),
         ctx15 = canvas15.getContext("2d"),
         toBlur15 = new Image();
-        toBlur15.src = "https://eldewrito.com/img/scr05.jpg";
+        toBlur15.src = "https://h2.eldewrito.com/img/scr05.jpg";
 
     function drawBlur() {
         var w = canvas15.width,
@@ -299,7 +299,7 @@ if ($('#blurry-show13').length > 0) {
     var canvas16 = document.getElementById("blurry-show13"),
         ctx16 = canvas16.getContext("2d"),
         toBlur16 = new Image();
-        toBlur16.src = "https://eldewrito.com/img/scr06.jpg";
+        toBlur16.src = "https://h2.eldewrito.com/img/scr06.jpg";
 
     function drawBlur() {
         var w = canvas16.width,
@@ -316,7 +316,7 @@ if ($('#blurry-show14').length > 0) {
     var canvas17 = document.getElementById("blurry-show14"),
         ctx17 = canvas17.getContext("2d"),
         toBlur17 = new Image();
-        toBlur17.src = "https://eldewrito.com/img/scr07.jpg";
+        toBlur17.src = "https://h2.eldewrito.com/img/scr07.jpg";
 
     function drawBlur() {
         var w = canvas17.width,
@@ -333,7 +333,7 @@ if ($('#blurry-show15').length > 0) {
     var canvas18 = document.getElementById("blurry-show15"),
         ctx18 = canvas18.getContext("2d"),
         toBlur18 = new Image();
-        toBlur18.src = "https://eldewrito.com/img/scr08.jpg";
+        toBlur18.src = "https://h2.eldewrito.com/img/scr08.jpg";
 
     function drawBlur() {
         var w = canvas18.width,

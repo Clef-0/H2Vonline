@@ -424,7 +424,7 @@ p {
 .innercontent {
 	overflow: hidden;
 	margin: 40px auto;
-	padding: 30px 2vw;
+	padding: 30px 2rem;
 }
 
 .innercontent h1 {
@@ -474,13 +474,13 @@ p:not(:last-child)
 .innercontent>.left
 {
 	float: left;
-    width: calc(60% - 4px);
+    width: calc(75% - 4px);
 }
 
 .innercontent>.right
 {
 	float: right;
-    width: calc(40% - 4px);
+    width: calc(25% - 4px);
 }
 
 .innercontent>.left>div,.innercontent>.right>div
@@ -501,7 +501,7 @@ p:not(:last-child)
 .contentwrap {
 	width: 100%;
 	overflow: hidden;
-	padding: 0 2vw;
+	padding: 0 2rem;
 }
 
 .separator {
@@ -557,7 +557,7 @@ p:not(:last-child)
 
 .innerseparator, .innerfooter, .innercenter {
     margin: auto;
-	padding: 60px 2vw;
+	padding: 60px 2rem;
     right: 0;
     left: 0;
     width: 90%;
@@ -776,8 +776,8 @@ p:not(:last-child)
 
 #hero-1 .hero_text {
 	bottom: 230px;
-	left: 2vw !important;
-	right: 2vw !important;
+	left: 2rem !important;
+	right: 2rem !important;
 	text-align: center;
 }
 
